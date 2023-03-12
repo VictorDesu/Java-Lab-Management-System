@@ -1,0 +1,5 @@
+//cpf; nome; idade; salario; horas/semana; senha; cargo
+12345678910; Victor; 19; 100000.0; 30.0; senhaGerente; 1
+12345678910; Atendente_1; 20; 2000.0; 35.0; senhaAtendente; 0
+12345678910; Enfermeiro_1; 21; 4000.0; 35.0; senhaEnfermeiro; 2
+12345678910; Limpeza_1; 22; 3000.0; 35.0; senhaLimpeza; 3

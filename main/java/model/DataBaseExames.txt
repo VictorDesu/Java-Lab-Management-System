@@ -1,0 +1,4 @@
+//cpf do cliente; tipo de exame; preço; data de realização; resultado
+12345678910; Tesde de Covid; 21/01/2022; Negativo; 200.0; 1
+12345678911; teste; 1/1/1; teste; 1.0; 2
+12345678910; teste; 1/1/1; teste; 1.0; 3
